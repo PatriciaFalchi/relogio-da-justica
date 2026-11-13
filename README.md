@@ -4,7 +4,7 @@ Quanto tempo a Justiça estadual leva para sentenciar um processo em cada estado
 
 **Painel interativo:** https://datastudio.google.com/reporting/d4fd1bea-fd04-4483-a20f-b48f44b70b2f
 
-![Ranking 2025](grafico_2025_v2.png)
+![Ranking 2025](grafico_ranking_2025.png)
 
 ## Principais achados
 
@@ -27,9 +27,9 @@ Quanto tempo a Justiça estadual leva para sentenciar um processo em cada estado
 
 ## Arquivos
 
-- `relogio_da_justica.csv`: base limpa usada no painel.
-- `grafico_2025_v2.png`: ranking de 2025.
 - `relogio_da_justica.ipynb`: notebook que reproduz a análise, da base bruta do CNJ até o gráfico.
+- `relogio_da_justica.csv`: base limpa usada no painel.
+- `grafico_ranking_2025.png`: ranking de 2025.
 
 ## Autoria
 
