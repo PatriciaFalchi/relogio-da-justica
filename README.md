@@ -10,7 +10,7 @@ Quanto tempo a Justiça estadual leva para sentenciar um processo em cada estado
 
 - Em 2025, o tempo médio até a sentença (1º grau, fase de conhecimento) variou de cerca de **8 meses em Roraima** a cerca de **41 meses na Bahia**, mais de 5 vezes de diferença.
 - São Paulo, que mais sentenciou no ano (2,2 milhões de sentenças no indicador), ficou em 7º lugar, com cerca de 14,5 meses.
-- A média dos 27 TJs, ponderada pelo número de sentenças, passou de cerca de 898 dias (2019) para 628 dias (2025). A maior queda ocorreu entre 2019 e 2020; este projeto não investiga a causa.
+- Entre 2020 e 2025, a média dos 27 TJs, ponderada pelo número de sentenças, oscilou pouco: de cerca de 669 para 628 dias. Há uma quebra de série entre 2019 e 2020, provavelmente ligada à mudança do cálculo dos indicadores para o DataJud pelo CNJ; por isso não comparamos os dois períodos.
 
 ## Dados e método
 
